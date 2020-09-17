@@ -35,7 +35,7 @@ public class PrimeCollection {
 	}
 	public static void main(String[] args) {
 		PrimeCollection primeCollection=new PrimeCollection();
-		primeCollection.initRandom(100,1000);
+		primeCollection.initRandom(100,2000);
 		System.out.println("les eniters premiers sont :");
 		primeCollection.printPrimes();
 	}
