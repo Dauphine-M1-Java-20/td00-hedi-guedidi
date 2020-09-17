@@ -1,0 +1,14 @@
+test
+GUEDIDI
+4- mvn -v / version installée : 3.6.3
+5- groupId : nom unique de l'organisation qui travaille sur le projet
+artifactId : nom du projet
+6- le dossier target contient des dossiers : classes (contient le fichier App.class compilé),generated-sources,maven-status
+8-c'est un chemin qui sert à indiquer qu compilateur où se trouver le fichier à compiler.
+9-Racine : la balise <project...>
+13-à déterminer la version de java à utiliser pour le résultat de le output de la compilation.Valeur: 1.7 comme pour la balise maven.compiler.source
+3/3-Eclipse transforme sysout en System.out.println
+3/4- Suggére la méthode toString
+3/4- Suggére la méthode main
+3/6 Suggére un fonction getter et setter pour la variable toto
+3/7 refactor la class et le nom de variable (changer le nom partout dans le code)
