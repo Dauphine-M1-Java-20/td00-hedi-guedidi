@@ -1,4 +1,4 @@
-test
+test2
 GUEDIDI
 4- mvn -v / version installée : 3.6.3
 5- groupId : nom unique de l'organisation qui travaille sur le projet
