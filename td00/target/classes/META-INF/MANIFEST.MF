@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: guedidi hedi
+Build-Jdk: 13.0.2
+Main-Class: fr.dauphine.ja.guedidihedi.td00.PrimeCollection
+Created-By: Maven Integration for Eclipse
+
