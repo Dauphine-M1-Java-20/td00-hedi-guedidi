@@ -1,0 +1,9 @@
+GUEDIDI
+1/2-le fichier .project/dossier target ne font pas partie des fichiers du projet.Les fichiers du projets sont les classes dans présents dans src et le pom dans la racine
+1/5- la modification est affichée. On voit l'ancienne et la nouvelle ligne.
+1/8-15d6390d9730013273002fbafeb8537a52fedca0
+1/10- git diff HEAD HEAD^
+2/3- master et remote/origin/master pointent sur le même noeud
+2/5- une erreur dans le push (il faut importer les modifications d'abord)
+2/6- Il y a deux branch une qui représentent l'historique local et une l'historique sous github. ils sont réunis après le merge.
+2/7- Il va y avoir un conflit : il faut choisir entre les deux versions (résoudre le conflit).
