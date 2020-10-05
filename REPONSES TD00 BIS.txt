@@ -7,3 +7,4 @@ GUEDIDI
 2/5- une erreur dans le push (il faut importer les modifications d'abord)
 2/6- Il y a deux branch une qui représentent l'historique local et une l'historique sous github. ils sont réunis après le merge.
 2/7- Il va y avoir un conflit : il faut choisir entre les deux versions (résoudre le conflit).
+3/2- Le test réussit avec assertTrue(true) et échoue avec assertTrue(false). La fonction assertTrue test la "vérité" du test (booleen) passé en paramétre.
